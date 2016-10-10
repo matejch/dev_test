@@ -13,7 +13,8 @@ Assume there are many of files in the folder.
 C) Write a function that sorts 11 small numbers (<100) as fast as possible.
 Estimate how long it would take to execute that function 10 Billion (10^10) times on a normal machine?
 
-D) Write a function that sorts 10000 powers (a^b) where a and b are random numbers between 100 and 10000? Estimate how long it would take on your machine? 
+D) Write a function that sorts 10000 powers (a^b) where a and b are random numbers between 100 and 10000? 
+Estimate how long it would take on your machine? 
 
 
 2. Create a single page web application that enables users to find NBA players and shows their basic profile and statistics.
@@ -21,7 +22,7 @@ Use this api client: https://github.com/seemethere/nba_py
 
 A) Build the web app and push the code to github. (spend 6h max. Cut features if you have to.)
  
-C) write a 1 page high level description of your solution. Answer:
+B) write a 1 page high level description of your solution. Answer:
 	- what you've built
 	- which technologies you've used  
 	- how it is tied together
