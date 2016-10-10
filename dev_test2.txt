@@ -1,0 +1,41 @@
+Solve challenges below. If anything is unclear use your own judgment to make a reasonable assumption. Make sure you explain your assumption and reasoning behind it.
+
+1. Basic CS
+
+A) Your friend Oscar has contacted you.  He is opening a DVD library, and wants to computerise his stock and lending records.  He has asked you to design a database for him.
+
+Design an SQL database for Oscar - using these thoughts to help you:
+
+Each member can rent out more than one DVD on each occasion.
+The DVD store will typically buy many different copies of the same film, each of which needs to be tracked separately.
+
+B)
+
+You are given a folder of 100k files with the following format:  NAME_SURNAME_TIMESTAMP (names and surnames may repeat several times).
+How would you merge the contents of files belonging to each person?
+
+
+C) You are given a folder with 400k movie subtitles. On average a movie subtitle is 10k words.
+
+Write a function that counts how many times a word occurs in a subtitle file.
+
+function count(text, word) -> n
+
+Estimate how long it takes to make a list of (word,count) for all words. 
+
+
+2. Build a web interface that Oscar will use to manage his DVD rental store.
+
+A) Estimate how long it will take you to complete
+
+B) Build a (simplified) web application that Oscar will use and push it to github. (spend 4h max. Cut features if you have to) 
+
+C). write a 1-page high level description of your solution. Answer:
+	- what you've built
+	- which technologies you've used and why
+	- how it is tied together
+	- your reasons for high-level decisions
+
+If you feel anything is unclear, use your own judgment to make
+assumptions (make sure you explain them in 3).
+
