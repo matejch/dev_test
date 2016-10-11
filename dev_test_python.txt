@@ -4,11 +4,11 @@ Solve exercises A,B,C,D and explain your reasoning. It's ok to use pseudo code w
 Or any popular language you're comfortable with.
 
 A) Design a SQL database to store NBA players, teams and games. 
-Users mostly search game results by date and team name. 
-The second most frequent query is player's statistics by player name.
+Users mostly query game results by date and team name. 
+The second most frequent query is players statistics by player name.
 
 B) How would you find files that begin with "0aH" and delete them given a folder (with subfolders)? 
-Assume there are many of files in the folder.
+Assume there are many files in the folder.
 
 C) Write a function that sorts 11 small numbers (<100) as fast as possible.
 Estimate how long it would take to execute that function 10 Billion (10^10) times on a normal machine?
@@ -17,8 +17,8 @@ D) Write a function that sorts 10000 powers (a^b) where a and b are random numbe
 Estimate how long it would take on your machine? 
 
 
-2. Create a single page web application that enables users to find NBA players and shows their basic profile and statistics.
-Use this api client: https://github.com/seemethere/nba_py
+2. Create a web application that enables users to find NBA players and shows their basic profile and statistics.
+Use this api client to get data: https://github.com/seemethere/nba_py
 
 A) Build the web app and push the code to github. (spend 6h max. Cut features if you have to.)
  
