@@ -1,0 +1,28 @@
+Solve challenges below. If anything is unclear use your own judgment to make a reasonable assumption. Make sure you explain your assumption and reasoning behind it.
+
+
+1. Go to http://jsfiddle.net/vem6jg8m/
+
+As you can see it takes a while to load. How would you optimize this code?
+How many groups/filters can you load in under 1 sec ?
+
+2. Create twitter advanced search interface using their API.
+
+Resources:
+https://dev.twitter.com/rest/public/search
+https://twitter.com/search-advanced
+
+
+A) Estimate how long it will take you to complete the task
+
+B) Build a (simplified) web application to search twitter and push it to github. (spend 4h max. Cut features if you have to) 
+
+C). write a 1-page high level description of your solution. Answer:
+	- what you've built
+	- which technologies you've used and why
+	- how it is tied together
+	- your reasons for high-level decisions
+
+If you feel anything is unclear, use your own judgment to make
+assumptions (make sure you explain them in C).
+
