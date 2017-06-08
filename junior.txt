@@ -3,7 +3,7 @@
 Solve exercises A,B,C and explain your reasoning. It's ok to use pseudo code where needed. 
 Or any popular language you're comfortable with.
 
-A) Write a SQL query that names and emails of customers who's credit cards are about to get expired (in the next 14 days).
+A) Write a SQL query that returns names and emails of customers whose credit cards are about to get expired (in the next 14 days).
 
 Data model looks like this:
 
