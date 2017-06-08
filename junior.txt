@@ -1,0 +1,25 @@
+1. Basic CS
+
+Solve exercises A,B,C and explain your reasoning. It's ok to use pseudo code where needed. 
+Or any popular language you're comfortable with.
+
+A) Write a SQL query that names and emails of customers who's credit cards are about to get expired (in the next 14 days).
+
+Data model looks like this:
+
+Table Customer (id, name, address, email)
+Table CustomerCreditCards(id,customer_id, ccnumber, cvs, expirationdate)
+
+B) Write a function SendEmail(to,sub,msg) that sends an email to an email address(to) with subject(sub) and message(msg). 
+
+C) How would you find files that begin with "0aH" and delete them given a folder (with subfolders)?  Assume there are many files in the folder.
+
+
+2. Explain your thinking process when you get a support tickets below. What would you check first? What questions you'd ask? Etc.
+
+A) Customer can't login. He's tried reset password feature but he's still locked out.
+
+B) Customer credit cards has expired. He's on the settings page. He entered a new credit cards information and clicked the button "Save". Nothing happens.
+
+If you feel anything is unclear, use your own judgement to make assumptions (make sure you explain why that makes sense).
+
