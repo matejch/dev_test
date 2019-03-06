@@ -15,9 +15,9 @@ You are given a folder of 100k files with the following format:  NAME_SURNAME_TI
 How would you merge the contents of files belonging to each person?
 
 
-C) You are given a folder with 400k movie subtitles. On average a movie subtitle is 10k words.
+C) You are given a folder with 400k movie subtitles. On average a movie subtitles file contains 10k words.
 
-Write a function that counts how many times a word occurs in a subtitle file.
+Write a function that counts how many times a word occurs in a subtitles file.
 
 function count(text, word) -> n
 
@@ -28,7 +28,7 @@ Estimate how long it takes to make a list of (word,count) for all words.
 
 A) Estimate how long it will take you to complete
 
-B) Build a (simplified) web application that Oscar will use and push it to github. (spend 4h max. Cut features if you have to) 
+B) Build a (simplified) web application that Oscar will use to manage his DVD library and push it to github. (spend 4h max. Cut features if you have to) 
 
 C). write a 1-page high level description of your solution. Answer:
 	- what you've built
