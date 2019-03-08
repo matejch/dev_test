@@ -2,13 +2,13 @@ Solve challenges below. If anything is unclear use your own judgment to make a r
 
 1. Basic Form
 
-Your friend Oscar has contacted you.  He is opening a DVD library, and wants to computerise his stock and lending records.  He has asked you to design a database for him.
+Your friend Oscar has contacted you.  He is opening a DVD library, and wants to computerise his stock and lending records.  He has asked you to create a simple web interface to manage his store.
 
 Each member can rent out more than one DVD on each occasion.
 The DVD store will typically buy many different copies of the same film, each of which needs to be tracked separately.
 He needs to add/edit DVDs, members, and see which 
 
-A) First, estimate how long it will take you to complete
+A) First, estimate how long it will take you to complete the task
 
 B) Build a (simplified) web application that Oscar will use to manage his DVD library and push it to github. 
 
