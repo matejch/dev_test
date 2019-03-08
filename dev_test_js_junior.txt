@@ -1,0 +1,26 @@
+Solve challenges below. If anything is unclear use your own judgment to make a reasonable assumption. Make sure you explain your assumption and reasoning behind it.
+
+1. Basic Form
+
+Your friend Oscar has contacted you.  He is opening a DVD library, and wants to computerise his stock and lending records.  He has asked you to design a database for him.
+
+Each member can rent out more than one DVD on each occasion.
+The DVD store will typically buy many different copies of the same film, each of which needs to be tracked separately.
+He needs to add/edit DVDs, members, and see which 
+
+A) First, estimate how long it will take you to complete
+
+B) Build a (simplified) web application that Oscar will use to manage his DVD library and push it to github. 
+
+You can store data in browser's local storge. Persistance over different sessions is NOT required. Spend 6h max. Cut features if you have to.
+
+
+C) Write a 1-2 page high level description of your solution. Answer:
+	- what you've built
+	- which technologies you've used and why
+	- how it is tied together
+	- your reasons for high-level decisions
+
+If you feel anything is unclear, use your own judgment to make
+assumptions (make sure you explain them).
+
